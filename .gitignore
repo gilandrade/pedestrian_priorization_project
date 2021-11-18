@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+*.mp4
+*.MOV
+/tf_pedestres
+/videos
